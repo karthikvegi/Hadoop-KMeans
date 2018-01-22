@@ -1,2 +1,2 @@
 # Hadoop-Means
-Implementation of Means using Hadoop MapReduce
+Implementation of KMeans algorithm using Hadoop MapReduce
